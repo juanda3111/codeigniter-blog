@@ -1,5 +1,7 @@
-1. Me puse a copiar 1a1 todo el cod. ----> cop el cod de github cuando toque
-2. si salen errores de estilo (q un titulo no esta tan centrado como lo queria,
-que la letra esta mas pequeÒa , etc , o alguna mierda que no afecte la funcionalidad sino solo lo visual), entonces copio y pego el cod de github
-------> si el error de estilo persiste , continuo el video en vez de arreglar el error de estilo.
+Por corregir:
+1. Salen errores de estilo (un titulo no esta tan centrado como lo queria,
+que la letra esta mas peque√±a , etc , pero no afecta la funcionalidad sino solo lo visual).
+2. Errores al registrar datos (los datos se registran bien pero no sale el mensaje de registro exitoso correctamente).
+3. Falta agregar funcionalidad de like y eso.
+
 
